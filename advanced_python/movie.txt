@@ -1,0 +1,13 @@
+"Inception (2010)", "The Social Network (2010)", "Black Swan (2010)", "The King's Speech (2010)",
+    "The Avengers (2012)", "Django Unchained (2012)", "The Dark Knight Rises (2012)", "Argo (2012)",
+    "Gravity (2013)", "12 Years a Slave (2013)", "Frozen (2013)", "The Wolf of Wall Street (2013)",
+    "Interstellar (2014)", "Guardians of the Galaxy (2014)", "Birdman (2014)", "Whiplash (2014)",
+    "Mad Max: Fury Road (2015)", "The Revenant (2015)", "Spotlight (2015)", "Inside Out (2015)",
+    "La La Land (2016)", "Moonlight (2016)", "Arrival (2016)", "Manchester by the Sea (2016)",
+    "Get Out (2017)", "Dunkirk (2017)", "The Shape of Water (2017)", "Lady Bird (2017)",
+    "Black Panther (2018)", "A Star is Born (2018)", "Bohemian Rhapsody (2018)", "Roma (2018)",
+    "Parasite (2019)", "Joker (2019)", "1917 (2019)", "Once Upon a Time in Hollywood (2019)",
+    "Tenet (2020)", "Nomadland (2020)", "Soul (2020)", "The Trial of the Chicago 7 (2020)",
+    "Dune (2021)", "No Time to Die (2021)", "The Power of the Dog (2021)", "West Side Story (2021)",
+    "Top Gun: Maverick (2022)", "The Batman (2022)", "Everything Everywhere All at Once (2022)", "Avatar: The Way of Water (2022)",
+    "Oppenheimer (2023)", "Barbie (2023)", "Dune: Part Two (2023)", "Killers of the Flower Moon (2023)"
